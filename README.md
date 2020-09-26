@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulshan Yadav</h1>
 <h3 align="center">A passionate freelance developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulshanyadav" alt="mrgulshanyadav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulshanyadav" alt="mrgulshanyadav" /> </p> -->
 
 - 🌱 I’m currently learning **AI/ML**
 
