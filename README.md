@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **flutter, dart, android, java**
 
-- ⚡ Fun fact **i can code 15 hours a day 😀 
+- ⚡ Fun fact **i can code 15 hours a day** 😀 
 
 - 📫 Reach me at **mryadavgulshan@gmail.com**
 
