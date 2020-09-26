@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gulshan Yadav</h1>
 <h3 align="center">A passionate freelance developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulshanyadav" alt="mrgulshanyadav" /> </p>
+
 - 📝 I regulary write articles on [https://medium.com/@mrgulshanyadav](https://medium.com/@mrgulshanyadav)
 
 - 💬 Ask me about **flutter, dart, android, java**
