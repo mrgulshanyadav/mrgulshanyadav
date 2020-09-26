@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgulshanyadav" alt="mrgulshanyadav" /> </p>
 
+- 🌱 I’m currently learning **AI/ML**
+
 - 📝 I regulary write articles on [https://medium.com/@mrgulshanyadav](https://medium.com/@mrgulshanyadav)
 
 - 💬 Ask me about **flutter, dart, android, java**
+
+- ⚡ Fun fact **i can code 15 hours a day :D**
 
 - 📫 Reach me at **mryadavgulshan@gmail.com**
 
