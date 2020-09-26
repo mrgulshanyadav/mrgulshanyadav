@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **flutter, dart, android, java**
 
-- 📫 How to reach me **mryadavgulshan@gmail.com**
+- 📫 Reach me at **mryadavgulshan@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
