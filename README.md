@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/11018260" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11018260" height="30" width="30" /></a>
 </p>
 
-### Blogs posts
+### Tech stacks
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
