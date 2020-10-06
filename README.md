@@ -13,6 +13,8 @@
 
 - 📫 Reach me at **mryadavgulshan@gmail.com**
 
+### Get closer by following me on other platforms
+
 <p align="left">
 <a href="https://linkedin.com/in/mrgulshanyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrgulshanyadav" height="30" width="30" /></a>
 <a href="https://medium.com/@mrgulshanyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mrgulshanyadav" height="30" width="30" /></a>
